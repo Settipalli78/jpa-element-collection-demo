@@ -15,6 +15,7 @@ public class SampleJava {
 		stringList.add("GodhaSukeerthi");
 		stringList.add("Settipalli");
 		stringList.add("Geeth");
+		stringList.add("Geeth");
 		
 		for(String names: stringList) {
 			
